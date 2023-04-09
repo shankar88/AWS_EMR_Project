@@ -8,6 +8,10 @@ In this project I have i have implemented a batch processing pipeline using EMR 
 
 https://www.gowrirajavelu.com/project-page/aws-projects/emr-pyspark-batch-processing-project
 
+## Architecture
+
+![emrpyspark](https://user-images.githubusercontent.com/15911327/230759141-753cf00f-83ba-41e2-94a8-03b2f6fde911.jpg)
+
 ## Technology Stack
 
 * Pyspark
