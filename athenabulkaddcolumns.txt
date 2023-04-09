@@ -1,2 +1,4 @@
+## Athena bulk add columns
+
 Invoice_ID string,Branch string,City string,Customer_type string,Gender string,Product_line string,Unit_Price string,Quantity string,
 Tax_5% string,Total string,Date string,Time string,Payment string,cogs string,gross_margin_percentage string,gross_income string,Rating string
